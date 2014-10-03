@@ -1,0 +1,4 @@
+perso_hack_day:
+    resource: "@PersoHackDayBundle/Resources/config/routing.yml"
+    prefix:   /
+

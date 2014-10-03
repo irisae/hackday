@@ -1,0 +1,3 @@
+perso_hack_day_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: PersoHackDayBundle:Default:index }

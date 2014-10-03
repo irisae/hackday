@@ -1,0 +1,7 @@
+parameters:
+#    perso_hack_day.example.class: Perso\Bundle\HackDayBundle\Example
+
+services:
+#    perso_hack_day.example:
+#        class: %perso_hack_day.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
