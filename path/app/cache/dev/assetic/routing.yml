@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /data/perso/hackday/path/app/config/routing_dev.yml
